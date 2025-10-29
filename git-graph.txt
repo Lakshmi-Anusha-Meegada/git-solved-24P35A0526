@@ -1,4 +1,6 @@
-* d2baf1f (HEAD -> main, origin/main) docs: Add changelog
+* 3d6f8e4 (HEAD -> main, origin/main) docs: Add changelog
+* f14c135 docs: Add final project artifacts
+* d2baf1f docs: Add changelog
 | * a9c9f33 (origin/feature/another-feature) feat: Add test feature
 |/  
 * d90dc59 (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README

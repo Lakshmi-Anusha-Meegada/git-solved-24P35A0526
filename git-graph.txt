@@ -1,0 +1,15 @@
+* d2baf1f (HEAD -> main, origin/main) docs: Add changelog
+| * a9c9f33 (origin/feature/another-feature) feat: Add test feature
+|/  
+* d90dc59 (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README
+* df83e03 docs: Add FAQ section
+| * 0239211 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* 4e46e40 Add package-lock.json
+* 0312c6f (instructor/main, instructor/HEAD) updating main
+* fadfd24 Revise README for DevOps Simulator project
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+| * 02011a5 (instructor/dev, dev) updating dev
+|/  
+* ae630eb Initial commit

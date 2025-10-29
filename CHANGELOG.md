@@ -1,0 +1,6 @@
+- d90dc59: docs: Update README (Lakshmi-Anusha-Meegada, 5 minutes ago)
+- df83e03: docs: Add FAQ section (Lakshmi-Anusha-Meegada, 6 minutes ago)
+- 4e46e40: Add package-lock.json (Lakshmi-Anusha-Meegada, 7 minutes ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
